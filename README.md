@@ -52,7 +52,7 @@ The biomedical corpus includes:
 - **Anatomical References**: Detailed human anatomy and physiology content
 - **Diagnostic Procedures**: Medical imaging, laboratory tests, and clinical assessments
 
-**Data Sources**: Curated from reputable biomedical databases including PubMed, Clinical Trials, and medical textbooks.
+**Data Sources**: rag-datasets/rag-mini-bioasq.
 
 ---
 
