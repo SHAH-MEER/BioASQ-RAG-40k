@@ -1,4 +1,4 @@
-# 🔬 Biomedical RAG Chatbot
+# 🧬  BioASQ-40k RAG Chatbot
 
 A **Retrieval-Augmented Generation (RAG)** chatbot built on a comprehensive biomedical corpus from Hugging Face. This system combines state-of-the-art dense retrieval with FAISS indexing and semantic embeddings to enable fast, accurate question answering over 40,000+ curated scientific passages covering diverse biomedical domains.
 
